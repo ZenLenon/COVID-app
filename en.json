@@ -65,7 +65,7 @@
         "Other": "For the next {number} days, you’ll get a daily notification asking permission to share any new exposures your phone recorded."
       },
       "Body2": "You do not have to agree, even if you agreed the day before.",
-      "Body3": "If you’re worried about your symptoms, get medical care as soon as you can. Take care of yourself and your family during this time.",
+      "Body3": "To let people know they’ve been exposed, you need a one-time key. We’ll also ask for details to help narrow down when you were likely most contagious.",
       "Tip": {
         "Title": "TIP: "
       }
