@@ -1,8 +1,8 @@
 {
   "Home": {
-    "AppName": "COVID Alert",
+    "AppName": "Diagnosed with COVID-19?",
     "UserStopped": {
-      "Title": "You turned off the app",
+      "Title": "COVID Alert is active",
       "CTA": "Turn back on"
     },
     "NoExposureDetected": {
